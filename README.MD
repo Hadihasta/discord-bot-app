@@ -1,0 +1,1 @@
+Setiap kali menambahkan command baru harus npm start karna untuk running deploy-commands.js
